@@ -1,5 +1,5 @@
 {
-  "link": "https://raw.githubusercontent.com/douglasck89/stm32-fota/main/update/blink_3.bin",  
+  "link": "https://raw.githubusercontent.com/douglasck89/stm32-fota/main/update/Blink411.bin",  
   "Mandatory": true,
   "sw" :3.0
   }
